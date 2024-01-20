@@ -1,0 +1,32 @@
+body {
+    background-color: antiquewhite;
+}
+
+img {
+    height: 500px;
+    width: 600px;
+    margin-left: 430px;
+    box-shadow: 5px 5px 10px;
+    border: 2px solid;
+}
+
+H1 {
+    margin-left: 420px;
+    color:blue;
+    text-shadow: 2px 2px 2px;
+}
+
+p {
+    text-align: center;
+    text-wrap: balance;
+    text-transform: capitalize;
+    font-size: xx-large;
+    text-shadow: 1px 1px 1px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+position: relative;
+margin-left: 600px;
+font-weight: 500px;
+font-size:xx-large;
+}
